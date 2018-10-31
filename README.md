@@ -1,7 +1,7 @@
 Initialisatie van Tentamen Repository Bi5a-T_1819
-# Naam Student:
-## Studentnummer:
-## Klas:
+# Naam Student: Aloys Kuster
+## Studentnummer: 600997
+## Klas: BIN-2b
 
 ## Beoordeling Student
 | Onderdeel  | Max Score | Student | Docent |
